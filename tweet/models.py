@@ -31,3 +31,4 @@ class Retweet(models.Model):
     likes = models.IntegerField(default=0)
     created = models.DateField(auto_now_add=True)
     updated = models.DateField(auto_now=True)
+#  what good my nigga?
